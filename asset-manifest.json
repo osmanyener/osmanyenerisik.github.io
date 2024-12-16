@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/osmanyenerisik.github.io/static/css/main.6564f4f4.css",
-    "main.js": "/osmanyenerisik.github.io/static/js/main.61b9c66a.js",
+    "main.js": "/osmanyenerisik.github.io/static/js/main.9d1ed5a9.js",
     "static/js/453.b05d8aa5.chunk.js": "/osmanyenerisik.github.io/static/js/453.b05d8aa5.chunk.js",
     "static/media/bg-light.png": "/osmanyenerisik.github.io/static/media/bg-light.bac0efb485244a522981.png",
     "static/media/bg-dark.png": "/osmanyenerisik.github.io/static/media/bg-dark.f420c6b8458af72de935.png",
@@ -9,14 +9,15 @@
     "static/media/TODO_image.png": "/osmanyenerisik.github.io/static/media/TODO_image.294b43e899a0738a6116.png",
     "static/media/GoT_image.png": "/osmanyenerisik.github.io/static/media/GoT_image.e95ed9ab872bbfc8d257.png",
     "static/media/Razor_image.png": "/osmanyenerisik.github.io/static/media/Razor_image.904c767fb8a75e7c8d88.png",
+    "static/media/avatar.jpg": "/osmanyenerisik.github.io/static/media/avatar.5b05532bfc6d7a666087.jpg",
     "static/media/c-sharp.png": "/osmanyenerisik.github.io/static/media/c-sharp.4a32f53d425c7ad4cb05.png",
     "index.html": "/osmanyenerisik.github.io/index.html",
     "main.6564f4f4.css.map": "/osmanyenerisik.github.io/static/css/main.6564f4f4.css.map",
-    "main.61b9c66a.js.map": "/osmanyenerisik.github.io/static/js/main.61b9c66a.js.map",
+    "main.9d1ed5a9.js.map": "/osmanyenerisik.github.io/static/js/main.9d1ed5a9.js.map",
     "453.b05d8aa5.chunk.js.map": "/osmanyenerisik.github.io/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6564f4f4.css",
-    "static/js/main.61b9c66a.js"
+    "static/js/main.9d1ed5a9.js"
   ]
 }
